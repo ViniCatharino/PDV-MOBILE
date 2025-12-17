@@ -1,7 +1,8 @@
 {
-  "version": "1.0.2",
-  "build": 1,
+  "version"    : "1.0.2",
+  "versio_sql" : 1,
   "apk_url": "https://github.com/ViniCatharino/PDV-MOBILE/releases/download/v1.0.0/pdvMobile.apk"
 
 }
+
 
