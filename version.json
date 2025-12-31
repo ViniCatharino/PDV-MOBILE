@@ -1,6 +1,6 @@
 {
   "app": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "apk_url": "https://github.com/ViniCatharino/PDV-MOBILE/releases/download/v1.0.0/pdvMobile.apk"
   },
 
@@ -14,10 +14,15 @@
       {
         "version": "1.0.2",
         "sql": "QUxURVIgVEFCTEUgVkVOREEgQUREIENPTFVNTiBTTl9DQU5DRUxBRE8gQ0hBUigxKSBERUZBVUxUICdOJzs="
+      },
+      {
+        "version": "1.0.3",
+        "sql": "QUxURVIgVEFCTEUgTU9WSU1FTlRBQ0FPCkFERCBDT0xVTU4gSURfVkVOREEgSU5URUdFUjsK"
       }
     ]
   }
 }
+
 
 
 
